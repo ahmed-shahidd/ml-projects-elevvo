@@ -12,8 +12,6 @@
 
 *A comprehensive collection of machine learning projects completed during my internship at **Elevvo***
 
-[![GitHub stars](https://img.shields.io/github/stars/ahmed-shahidd/ml-projects-elevvo?style=social)](https://github.com/ahmed-shahidd/ml-projects-elevvo)
-[![GitHub forks](https://img.shields.io/github/forks/ahmed-shahidd/ml-projects-elevvo?style=social)](https://github.com/ahmed-shahidd/ml-projects-elevvo)
 
 </div>
 
@@ -53,17 +51,17 @@ This repository showcases a comprehensive collection of machine learning project
 <strong>Student Score Prediction</strong>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/color/48/000000/customer.png"/>
+<img src="https://img.icons8.com/color/48/000000/group.png"/>
 <h3>👥 Task 2</h3>
 <strong>Customer Segmentation</strong>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/color/48/000000/tree.png"/>
+<img src="https://img.icons8.com/color/48/000000/deciduous-tree.png"/>
 <h3>🌲 Task 3</h3>
 <strong>Forest Cover Classification</strong>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/color/48/000000/loan.png"/>
+<img src="https://img.icons8.com/color/48/000000/banknotes.png"/>
 <h3>💰 Task 4</h3>
 <strong>Loan Approval Prediction</strong>
 </td>
